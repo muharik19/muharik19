@@ -4,11 +4,6 @@
 
 I am passionate about coding, problem-solving, and building innovative solutions. Let's dive into my journey and explore my projects!
 
-- 🔭 **I’m currently working on**: Building cool projects with **JavaScript** and **Python**. I'm also experimenting with **machine learning** and **web development**.
-- 🌱 **I’m currently learning**: Advanced algorithms and diving deeper into **React** and **Django** to enhance my web development skills.
-- 👯 **I’m looking to collaborate on**: Open-source web applications, **machine learning** projects, or anything that can challenge my skills and help me grow.
-- 🤔 **I’m looking for help with**: Best practices in **DevOps** and optimizing my codebase for performance.
-- 💬 **Ask me about**: How to get started with coding, Python, JavaScript, or building your first project. 
 - 📫 **How to reach me**: You can reach out via **[Email](mailto:ahmadmuharik@gmail.com)** or follow me on **[LinkedIn](https://www.linkedin.com/in/ahmad-muharik-al-ansori-a42523164)**.
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I'm a huge fan of **space exploration** and love reading about new technologies and their impact on our future.
