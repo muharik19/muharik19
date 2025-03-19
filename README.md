@@ -10,7 +10,7 @@ I am passionate about coding, problem-solving, and building innovative solutions
 
 ### 📈 GitHub Stats
 
-![Muharik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muharik19&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Muharik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muharik19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ---
 
