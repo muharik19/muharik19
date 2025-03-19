@@ -2,6 +2,8 @@
 
 ## Hi there 👋, I'm Muharik! Welcome to my GitHub profile!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muharik19&repo=github-readme-stats)](https://github.com/muharik19/github-readme-stats)
+
 I am passionate about coding, problem-solving, and building innovative solutions. Let's dive into my journey and explore my projects!
 
 - 🔭 **I’m currently working on**: Building cool projects with **JavaScript** and **Python**. I'm also experimenting with **machine learning** and **web development**.
@@ -17,21 +19,9 @@ I am passionate about coding, problem-solving, and building innovative solutions
 
 ![Muharik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muharik19&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
-### 🔥 GitHub Streak
-
-![Muharik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muharik19&theme=radical)
-
 ### 🛠️ Technologies I Use
 
-- **Languages**: JavaScript, Python, C++
-- **Frameworks**: React, Django, Node.js
-- **Tools**: Git, Docker, VSCode, Postman, Nginx
-- **Databases**: MySQL, MongoDB
-
-### 📝 Latest Blog Posts
-
-- [Understanding Machine Learning Concepts](https://medium.com/@muharik19/understanding-machine-learning-concepts)
-- [Getting Started with React](https://medium.com/@muharik19/getting-started-with-react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muharik19&layout=donut)](https://github.com/muharik19/github-readme-stats)
 
 ---
 
