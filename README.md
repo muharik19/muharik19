@@ -19,10 +19,6 @@ I am passionate about coding, problem-solving, and building innovative solutions
 
 ![Muharik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muharik19&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
-### 🛠️ Technologies I Use
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muharik19&layout=donut)](https://github.com/muharik19/github-readme-stats)
-
 ---
 
 Thanks for visiting my profile! If you're interested in collaborating or just want to chat about tech, don't hesitate to reach out. Let's code together! 🚀
