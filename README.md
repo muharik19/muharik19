@@ -2,8 +2,6 @@
 
 ## Hi there 👋, I'm Muharik! Welcome to my GitHub profile!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muharik19&repo=github-readme-stats)](https://github.com/muharik19/github-readme-stats)
-
 I am passionate about coding, problem-solving, and building innovative solutions. Let's dive into my journey and explore my projects!
 
 - 🔭 **I’m currently working on**: Building cool projects with **JavaScript** and **Python**. I'm also experimenting with **machine learning** and **web development**.
