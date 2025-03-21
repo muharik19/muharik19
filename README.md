@@ -2,16 +2,29 @@
 
 ## Hi there 👋, I'm Muharik! Welcome to my GitHub profile!
 
-I am passionate about coding, problem-solving, and building innovative solutions. Let's dive into my journey and explore my projects!
+I'm a passionate software developer, always exploring new technologies, solving problems, and building impactful solutions. Whether you're here to see my projects or learn more about my journey, I'm glad to have you!
 
-- 📫 **How to reach me**: You can reach out via **[Email](mailto:ahmadmuharik@gmail.com)** or follow me on **[LinkedIn](https://www.linkedin.com/in/ahmad-muharik-al-ansori-a42523164)** or subscribe me on **[Youtube](https://www.youtube.com/@ahmadmuharik3787/videos)**.
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I'm a huge fan of **space exploration** and love reading about new technologies and their impact on our future.
+### About Me
+
+- 🔭 I’m currently working on improving my skills and contributing to open-source projects.
+- 🌱 I’m currently learning **Rust**, **Web Development**, and diving deeper into **AI/ML**.
+- 💬 Feel free to reach out if you'd like to discuss coding, technology, or anything exciting in the world of **space exploration**!
+- ⚡ **Fun fact**: I’m a huge fan of space exploration and enjoy reading about cutting-edge tech that will shape our future.
+
+### 📬 How to Reach Me
+
+- Email: [ahmadmuharik@gmail.com](mailto:ahmadmuharik@gmail.com)
+- LinkedIn: [Ahmad Muharik](https://www.linkedin.com/in/ahmad-muharik-al-ansori-a42523164)
+- YouTube: [Ahmad Muharik](https://www.youtube.com/@ahmadmuharik3787/videos)
 
 ### 📈 GitHub Stats
 
 ![Muharik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muharik19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
+### Featured Project
+
+[![Rust CRUD Basic](https://github-readme-stats.vercel.app/api/pin/?username=muharik19&repo=rust_crud_basic&show_owner=true)](https://github.com/muharik19/rust_crud_basic)
+
 ---
 
-Thanks for visiting my profile! If you're interested in collaborating or just want to chat about tech, don't hesitate to reach out. Let's code together! 🚀
+Thank you for visiting my GitHub profile! If you’re interested in collaborating, learning, or just chatting about tech, don’t hesitate to reach out. Let’s create and innovate together! 🚀
