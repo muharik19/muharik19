@@ -14,7 +14,7 @@ I'm a passionate software developer, always exploring new technologies, solving 
 ### 📬 How to Reach Me
 
 - Email: [ahmadmuharik@gmail.com](mailto:ahmadmuharik@gmail.com)
-- LinkedIn: [Ahmad Muharik](https://www.linkedin.com/in/ahmad-muharik-al-ansori-a42523164)
+- LinkedIn: [Ahmad Muharik](https://www.linkedin.com/in/ahmad-muharik-al-ansori-33b6b3160/)
 - YouTube: [Ahmad Muharik](https://www.youtube.com/@ahmadmuharik3787/videos)
 
 ### 📈 GitHub Stats
